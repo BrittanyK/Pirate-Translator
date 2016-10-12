@@ -1,0 +1,27 @@
+html { 
+  background: url("Pirate_Ship_Background.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h2{
+  font-size: 3rem;
+  font-family: 'Pirata One', cursive;
+  color: white;
+}
+
+body{
+  font-family: 'Pirata One', cursive;
+  font-size: 20px;
+}
+
+#1{
+  width: 100%;
+  text-align: center;
+}
+
+.inner{
+  display: inline-block;
+}
